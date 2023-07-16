@@ -1,0 +1,6 @@
+C:\Users\REDTECH\source\repos\4321_DA_Final\4321_DA_Final\obj\Debug\4321_DA_Final.csproj.AssemblyReference.cache
+C:\Users\REDTECH\source\repos\4321_DA_Final\4321_DA_Final\obj\Debug\4321_DA_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\REDTECH\source\repos\4321_DA_Final\4321_DA_Final\obj\Debug\Views\MainWindow.g.cs
+C:\Users\REDTECH\source\repos\4321_DA_Final\4321_DA_Final\obj\Debug\App.g.cs
+C:\Users\REDTECH\source\repos\4321_DA_Final\4321_DA_Final\obj\Debug\4321_DA_Final_MarkupCompile.cache
+C:\Users\REDTECH\source\repos\4321_DA_Final\4321_DA_Final\obj\Debug\4321_DA_Final_MarkupCompile.lref
